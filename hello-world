@@ -1,0 +1,11 @@
+git init--initialize
+git add <file name>
+git commit -m "save file"
+git status
+git remote add  origin https://swapnagavva@bitbucket.org/RiverPlayPoker/accubi.git
+git push origin
+git switch branch_name
+if you want to delete the branch 1st need to switch another branch then only can delete the current branch
+git branch -D branchname
+git push origin your_branch
+
